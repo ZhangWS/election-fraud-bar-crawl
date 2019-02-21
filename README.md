@@ -13,8 +13,6 @@ Some important variable names:
 
 Commentary on fraud from the provider of the data, Gennady Rudkevich at Georgia Southern:
 
-```
-There are micro and macro ways to catch fraud. The micro version requires looking at precinct level results (which would take quite a long time to enter into a dataset) and then looking at statistical abnormalities, like the distribution of 5s and 0s as the last digit of results, distribution of turnout figures,etc. The macro version means looking at regional results, including correlations between turnout in different elections, the determinants of Putin's support (and turnout) after controlling for various economic and political variables.
-```
+>There are micro and macro ways to catch fraud. The micro version requires looking at precinct level results (which would take quite a long time to enter into a dataset) and then looking at statistical abnormalities, like the distribution of 5s and 0s as the last digit of results, distribution of turnout figures,etc. The macro version means looking at regional results, including correlations between turnout in different elections, the determinants of Putin's support (and turnout) after controlling for various economic and political variables.
 
 The folder names should be fairly self-explanatory.
