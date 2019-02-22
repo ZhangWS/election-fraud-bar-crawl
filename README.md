@@ -6,7 +6,7 @@ Election fraud is a problem in Russia (citations available upon request), but ca
 
 ## Some information about the data
 
-Gennady Rudkevich at Georgia College provided a dataset of elections returns going back to 1991. It has a large feature set, including economic variables for also that time frame, whether a regional governor has a military/intelligence background, etc. I have a semi-standard codebook (with more than what's available in this dataset) that I'll make available, and take note that feature names may be in Cyrillic.
+Gennady Rudkevich at Georgia College provided a dataset of elections returns going back to 1991. It doesn't include much information, and many feature names may be in Cyrillic.
 
 Some important variable names:
 * Year: year of election
@@ -15,7 +15,7 @@ Some important variable names:
 * CYear: Commie share
 * TYear: turnout
 
-While the election data is public, the economic data will be provided separately on request.
+While the election data is public, the economic data will be provided separately on request, once I get it. This set has thousands of features, including economic variables for that time frame, whether a regional governor has a military/intelligence background, etc. 
 
 ## Commentary on detecting fraud from Gennady:
 
